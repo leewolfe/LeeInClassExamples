@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="C:\Users\Rebecca Wolfe\Desktop\LeeInClassExamples\Lee8InClassExamples.cs" Link="Lee8InClassExamples.cs" />
+  </ItemGroup>
+
+</Project>
